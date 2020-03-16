@@ -48,5 +48,5 @@ thread = threading.Thread(target=thread_function, args=(INPUT_DIR + file, datawr
 
 ## Contact
 If you have some questions, please contact me
-skype: live:force.top_1
-email: willcomeo022@gmail.com
+skype: live:smiling.cstar
+email: bluedragon.cstar@gmail.com
